@@ -17,7 +17,7 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 - [Module 11: C Programming Projects (Days 51-60)](#module-11-c-programming-projects-days-51-60)
 
 
-**Table of Contents:**
+## Table of Contents:
 
 - [Basic C Programs](#basic-c-programs)
 - [Control Flow Programs](#control-flow-programs)
