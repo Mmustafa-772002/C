@@ -4,10 +4,6 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 
 ## Syllabus
 
-Certainly! Here's a structured list of sections and topics in your C Programming Practice repository, along with links for easy navigation:
-
-Certainly, you can include links to each module in your list. Here's the updated list with links:
-
 - [Module 1: Introduction to C (Days 1-5)](#module-1-introduction-to-c-days-1-5)
 - [Module 2: Control Flow and Decision Making (Days 6-10)](#module-2-control-flow-and-decision-making-days-6-10)
 - [Module 3: Functions and Modular Programming (Days 11-15)](#module-3-functions-and-modular-programming-days-11-15)
@@ -20,7 +16,6 @@ Certainly, you can include links to each module in your list. Here's the updated
 - [Module 10: Advanced Topics (Days 46-50)](#module-10-advanced-topics-days-46-50)
 - [Module 11: C Programming Projects (Days 51-60)](#module-11-c-programming-projects-days-51-60)
 
-You can add these links to your documentation or web page to allow easy navigation to each module.
 
 **C Program Topics:**
 
@@ -51,6 +46,21 @@ You can add these links to your documentation or web page to allow easy navigati
 - [File I/O Programs](#file-io-programs)
 - [Date and Time Programs](#date-and-time-programs)
 - [More C Programs](#more-c-programs)
+
+## Table of Contents
+
+1. [Basic C Programs](#basic-c-programs)
+2. [Control Flow Programs](#control-flow-programs)
+3. [Pattern Printing Programs](#pattern-printing-programs)
+4. [Functions Programs](#functions-programs)
+5. [Arrays Programs](#arrays-programs)
+6. [Strings Programs](#strings-programs)
+7. [Conversions Programs](#conversions-programs)
+8. [Pointers Programs](#pointers-programs)
+9. [Structures and Unions Programs](#structures-and-unions-programs)
+10. [File I/O Programs](#file-io-programs)
+11. [Date and Time Programs](#date-and-time-programs)
+12. [More C Programs](#more-c-programs)
 
 ### Module 1: Introduction to C (Days 1-5)
 
@@ -337,21 +347,7 @@ You can add these links to your documentation or web page to allow easy navigati
 155. [C Program to Find the Initials of a Name](topics/more-c-programs/program155.c)
 156. [C Program to Draw a Circle in Graphics](topics/more-c-programs/program156.c)
 157. [Printing Source Code of a C Program Itself](topics/more-c-programs/program157.c)
-
-## Table of Contents
-
-1. [Basic C Programs](#basic-c-programs)
-2. [Control Flow Programs](#control-flow-programs)
-3. [Pattern Printing Programs](#pattern-printing-programs)
-4. [Functions Programs](#functions-programs)
-5. [Arrays Programs](#arrays-programs)
-6. [Strings Programs](#strings-programs)
-7. [Conversions Programs](#conversions-programs)
-8. [Pointers Programs](#pointers-programs)
-9. [Structures and Unions Programs](#structures-and-unions-programs)
-10. [File I/O Programs](#file-io-programs)
-11. [Date and Time Programs](#date-and-time-programs)
-12. [More C Programs](#more-c-programs)
+---
 
 ## Basic C Programs
 
