@@ -1,7 +1,7 @@
 # C Programming Practice Repository
 
 Welcome to the C Programming Practice repository! This repository is a comprehensive resource for learning and practicing C programming. Whether you're a beginner looking to get started with C or an experienced developer honing your skills, you'll find a wealth of C programs and exercises here.
----
+
 ## Syllabus
 
 - [Module 1: Introduction to C (Days 1-5)](#module-1-introduction-to-c-days-1-5)
