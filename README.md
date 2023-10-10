@@ -138,8 +138,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 36. [C Program to Find All Factors of a Natural Number](topics/control-flow-programs/factors_of_natural_number.c)
 37. [C program to Sum of Fibonacci Numbers at Even Indexes up to N Terms](topics/control-flow-programs/sum_of_fibonacci_numbers.c)
 
+### Pattern Printing Programs:
 
-**Pattern Printing Programs:**
 38. [C Program to Print Simple Pyramid Pattern](topics/pattern-printing-programs/simple_pyramid.c)
 39. [C Program to Print Given Triangle](topics/pattern-printing-programs/given_triangle.c)
 40. [C Program to Print 1800 Rotation of Simple Pyramid](topics/pattern-printing-programs/180_degree_rotation_pyramid.c)
@@ -155,7 +155,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 50. [C Program to Print Floyd’s Pattern Triangle Pyramid](topics/pattern-printing-programs/floyd_pattern_pyramid.c)
 51. [C Program to Print Reverse Floyd pattern Triangle Pyramid](topics/pattern-printing-programs/reverse_floyd_pattern_pyramid.c)
 
-**Functions Programs:**
+### Functions Programs:
+
 52. [C Program to Check Prime Number By Creating a Function](topics/functions-programs/check_prime.c)
 53. [C Program to Display Prime Numbers Between Two Intervals Using Functions](topics/functions-programs/display_prime_intervals.c)
 54. [C Program to Find All Roots of a Quadratic Equation](topics/functions-programs/quadratic_equation_roots.c)
@@ -166,8 +167,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 59. [C Program to Reverse a Stack using Recursion](topics/functions-programs/reverse_stack_recursion.c)
 60. [C Program to Calculate Power Using Recursion](topics/functions-programs/power_recursion.c)
 
+### Arrays Programs:
 
-**Arrays Programs:**
 61. [C Program to Print a 2D Array](topics/arrays/program61.c)
 62. [C Program to Find the Largest Element in an Array](topics/arrays/program62.c)
 63. [C Program to Find the Maximum and Minimum in an Array](topics/arrays/program63.c)
@@ -198,7 +199,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 88. [C Program to Interchange Elements of First and Last in a Matrix Across Rows](topics/arrays/program88.c)
 89. [C Program to Interchange Elements of First and Last in a Matrix Across Columns](topics/arrays/program89.c)
 
-**Strings Programs:**
+### Strings Programs:
+
 90. [C Program to Add or Concatenate Two Strings](topics/strings/program90.c)
 91. [C Program to Add 2 Binary Strings](topics/strings/program91.c)
 92. [C Program to Get a Non-Repeating Character From the Given String](topics/strings/program92.c)
@@ -216,7 +218,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 104. [C Program to Insert a String into Another String](topics/strings/program104.c)
 105. [C Program to Split a String into a Number of Sub-Strings](topics/strings/program105.c)
 
-**Conversions Programs:**
+### Conversions Programs:
+
 106. [C Program For Boolean to String Conversion](topics/conversions/program106.c)
 107. [C Program For Float to String Conversion](topics/conversions/program107.c)
 108. [C Program For Double to String Conversion](topics/conversions/program108.c)
@@ -231,7 +234,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 117. [C Program For Decimal to Binary Conversion](topics/conversions/program117.c)
 118. [C Program For Binary to Decimal Conversion](topics/conversions/program118.c)
 
-**Pointers Programs:**
+### Pointers Programs:
+
 119. [How to Return a Pointer from a Function in C](topics/pointers/program119.c)
 120. [How to Declare a Two-Dimensional Array of Pointers in C](topics/pointers/program120.c)
 121. [C Program to Find the Largest Element in an Array using Pointers](topics/pointers/program121.c)
@@ -241,7 +245,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 125. [C Program to Check if a String is a Palindrome using Pointers](topics/pointers/program125.c)
 126. [C Program to Create a Copy of a Singly Linked List using Recursion](topics/pointers/program126.c)
 
-**Structures and Unions Programs:**
+### Structures and Unions Programs:
+
 127. [C Program to Store Information of Students Using Structure](topics/structures-unions/program127.c)
 128. [C Program to Store Student Records as Structures and Sort them by Name](topics/structures-unions/program128.c)
 129. [C Program to Add N Distances Given in inch-feet System using Structures](topics/structures-unions/program129.c)
@@ -250,7 +255,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 132. [Read/Write Structure to a File in C](topics/structures-unions/program132.c)
 133. [Flexible Array Members in a Structure in C](topics/structures-unions/program133.c)
 
-**File I/O Programs:**
+### File I/O Programs:
+
 134. [C Program to Create a Temporary File](topics/file-io/program134.c)
 135. [C Program to Read/Write Structure to a File](topics/file-io/program135.c)
 136. [C Program to Rename a file](topics/file-io/program136.c)
@@ -262,7 +268,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 142. [C Program to Read Content From One File and Write it Into Another File](topics/file-io/program142.c)
 143. [C Program to Read and Print all Files From a Zip File](topics/file-io/program143.c)
 
-**Date and Time Programs:**
+### Date and Time Programs:
+
 144. [C Program to Format time in AM-PM format](topics/date-time/program144.c)
 145. [C program to Print Digital Clock with the Current Time](topics/date-time/program145.c)
 146. [C Program to Display Dates of Calendar Year in Different Formats](topics/date-time/program146.c)
@@ -271,7 +278,8 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 149. [C Program to Convert the Local Time to GMT](topics/date-time/program149.c)
 150. [C Program to Convert Hours into Minutes and Seconds](topics/date-time/program150.c)
 
-**More C Programs:**
+### More C Programs:
+
 151. [C Program to Show Runtime exceptions](topics/more-c-programs/program151.c)
 152. [C Program to Show Types of errors](topics/more-c-programs/program152.c)
 153. [C Program to Show Unreachable Code Error](topics/more-c-programs/program153.c)
