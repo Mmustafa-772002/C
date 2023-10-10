@@ -16,7 +16,6 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 - [Module 10: Advanced Topics (Days 46-50)](#module-10-advanced-topics-days-46-50)
 - [Module 11: C Programming Projects (Days 51-60)](#module-11-c-programming-projects-days-51-60)
 
-
 ## Table of Contents:
 
 - [Basic C Programs](#basic-c-programs)
