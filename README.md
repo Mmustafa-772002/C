@@ -95,23 +95,25 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 
 ## C Program Topics
 
-### Basic C Programs(https://github.com/Mmustafa-772002/C_programs/tree/main/Programming%20Topics/Basic%20C%20Programs)
+### Basic C Programs
 
-1. [C Hello World Program](https://github.com/Mmustafa-772002/C_programs/tree/main/Programming%20Topics/Basic%20C%20Programs)
-2. [C Program to Print Your Own Name](topics/basic-c-programs/print_name.c)
-3. [C Program to Print an Integer Entered By the User](topics/basic-c-programs/print_integer.c)
-4. [C Program to Add Two Numbers](topics/basic-c-programs/add_numbers.c)
-5. [C Program to Check Whether a Number is Prime or Not](topics/basic-c-programs/check_prime.c)
-6. [C Program to Multiply two Floating-Point Numbers](topics/basic-c-programs/multiply_floats.c)
-7. [C Program to Print the ASCII Value of a Character](topics/basic-c-programs/ascii_value.c)
-8. [C Program to Swap Two Numbers](topics/basic-c-programs/swap_numbers.c)
-9. [C Program to Calculate Fahrenheit to Celsius](topics/basic-c-programs/fahrenheit_to_celsius.c)
-10. [C Program to Find the Size of int, float, double, and char](topics/basic-c-programs/data_type_sizes.c)
-11. [C Program to Add Two Complex Numbers](topics/basic-c-programs/complex_numbers.c)
-12. [C Program to Print Prime Numbers From 1 to N](topics/basic-c-programs/prime_numbers.c)
-13. [C Program to Find Simple Interest](topics/basic-c-programs/simple_interest.c)
-14. [C Program to Find Compound Interest](topics/basic-c-programs/compound_interest.c)
-15. [C Program for Area And Perimeter Of Rectangle](topics/basic-c-programs/rectangle_area_perimeter.c)
+1. [C Hello World Program](https://github.com/Mmustafa-772002/C_programs/tree/main/Programming%20Topics/Basic%20C%20Programs/Hello_World.c)
+2. [C Program to Print Your Own Name](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/print_name.c)
+3. [C Program to Print an Integer Entered By the User](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/print_integer.c)
+4. [C Program to Add Two Numbers](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/add_numbers.c)
+5. [C Program to Check Whether a Number is Prime or Not](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/check_prime.c)
+6. [C Program to Multiply two Floating-Point Numbers](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/multiply_floats.c)
+7. [C Program to Print the ASCII Value of a Character](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/ascii_value.c)
+8. [C Program to Swap Two Numbers](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/swap_numbers.c)
+9. [C Program to Calculate Fahrenheit to Celsius](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/fahrenheit_to_celsius.c)
+10. [C Program to Find the Size of int, float, double, and char](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/data_type_sizes.c)
+11. [C Program to Add Two Complex Numbers](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/complex_numbers.c)
+12. [C Program to Print Prime Numbers From 1 to N](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/prime_numbers.c)
+13. [C Program to Find Simple Interest](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/simple_interest.c)
+14. [C Program to Find Compound Interest](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/compound_interest.c)
+15. [C Program for Area And Perimeter Of Rectangle](https://github.com/Mmustafa-772002/C_programs/blob/main/Programming%20Topics/Basic%20C%20Programs/rectangle_area_perimeter.c)
+
+
 
 ### Control Flow Programs
 
