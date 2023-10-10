@@ -4,7 +4,7 @@ This repository contains a collection of C programming examples and practice pro
 
 ## Table of Contents
 
-1. [Basic C Programs](##Basic C Programs)
+1. [Basic C Programs](##basic-c-programs)
 2. [Control Flow Programs](#control-flow-programs)
 3. [Pattern Printing Programs](#pattern-printing-programs)
 4. [Functions Programs](#functions-programs)
