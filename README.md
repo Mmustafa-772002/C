@@ -47,7 +47,7 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 - [Date and Time Programs](#date-and-time-programs)
 - [More C Programs](#more-c-programs)
 
-## Table of Contents
+## Table of Contents - part2
 
 1. [Basic C Programs](#basic-c-programs)
 2. [Control Flow Programs](#control-flow-programs)
