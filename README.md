@@ -97,7 +97,7 @@ Welcome to the C Programming Practice repository! This repository is a comprehen
 
 ### Basic C Programs
 
-1. [C Hello World Program]([topics/basic-c-programs/hello_world.c](https://github.com/Mmustafa-772002/C_programs/tree/main/Programming%20Topics/Basic%20C%20Programs))
+1. [C Hello World Program](https://github.com/Mmustafa-772002/C_programs/tree/main/Programming%20Topics/Basic%20C%20Programs)
 2. [C Program to Print Your Own Name](topics/basic-c-programs/print_name.c)
 3. [C Program to Print an Integer Entered By the User](topics/basic-c-programs/print_integer.c)
 4. [C Program to Add Two Numbers](topics/basic-c-programs/add_numbers.c)
